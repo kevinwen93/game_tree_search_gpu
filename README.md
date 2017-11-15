@@ -4,5 +4,4 @@ Make and ./othello to open the project
 
 Follow the instructions, which will guide you choose the player type (CPU-version, GPU-version, Original AI, Human Player)
 
-Project starts from the Open source code from https://github.com/ccurro/othelloAI
 
